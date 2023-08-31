@@ -1,2 +1,3 @@
 # bonezegei-Protocol
-A Simple protocol for data transmission
+A Simple Protocol for data transmission. 
+
